@@ -2,7 +2,7 @@
 
 ## 📘 Homework 2 – DSCI 552: Regression Modeling and KNN Analysis
 
-### 📌 Instructor
+### Instructor
 
 Dr. Mohammad Reza Rajati
 
@@ -10,11 +10,11 @@ Dr. Mohammad Reza Rajati
 
 Chenyi Weng
 
-### 🗂 Project Overview
+###  Project Overview
 
 This repository contains the analysis and code for Homework 2 of DSCI 552 – Machine Learning for Data Science. The homework focuses on analyzing a Combined Cycle Power Plant dataset using various regression techniques and K-Nearest Neighbors (KNN). Tasks include exploratory data analysis (EDA), simple and multiple linear regression, polynomial regression, interaction modeling, and performance evaluation.
 
-### 📊 Dataset
+###  Dataset
 
 **Source**: UCI Machine Learning Repository
 **Link**: [Combined Cycle Power Plant Dataset](https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant)
@@ -30,7 +30,7 @@ The dataset includes hourly measurements collected over 6 years (2006–2011) un
 **Data Shape**: 9568 rows × 5 columns
 (Only Sheet 1 is used in this analysis)
 
-### 🧪 Analysis Tasks
+### Analysis Tasks
 
 #### 1. Exploratory Data Analysis (EDA)
 
@@ -87,7 +87,7 @@ The dataset includes hourly measurements collected over 6 years (2006–2011) un
 └── README.md
 ```
 
-### 🧠 Requirements
+### Requirements
 
 * Python 3.x
 * NumPy
