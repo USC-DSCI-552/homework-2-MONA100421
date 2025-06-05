@@ -1,7 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8Eoh9HGo)
-以下是根據你上傳的 Homework 2 作業內容撰寫的 `README.md` 初稿，格式符合常見的 GitHub 學術專案說明文件結構：
-
----
 
 ## 📘 Homework 2 – DSCI 552: Regression Modeling and KNN Analysis
 
@@ -13,13 +10,9 @@ Dr. Mohammad Reza Rajati
 
 Chenyi Weng
 
----
-
 ### 🗂 Project Overview
 
 This repository contains the analysis and code for Homework 2 of DSCI 552 – Machine Learning for Data Science. The homework focuses on analyzing a Combined Cycle Power Plant dataset using various regression techniques and K-Nearest Neighbors (KNN). Tasks include exploratory data analysis (EDA), simple and multiple linear regression, polynomial regression, interaction modeling, and performance evaluation.
-
----
 
 ### 📊 Dataset
 
@@ -36,8 +29,6 @@ The dataset includes hourly measurements collected over 6 years (2006–2011) un
 
 **Data Shape**: 9568 rows × 5 columns
 (Only Sheet 1 is used in this analysis)
-
----
 
 ### 🧪 Analysis Tasks
 
@@ -87,8 +78,6 @@ The dataset includes hourly measurements collected over 6 years (2006–2011) un
 * Evaluate KNN vs. best linear model
 * Model interpretability, accuracy, and generalization
 
----
-
 ### 📁 Repository Structure
 
 ```
@@ -97,8 +86,6 @@ The dataset includes hourly measurements collected over 6 years (2006–2011) un
 ├── github/keep
 └── README.md
 ```
-
----
 
 ### 🧠 Requirements
 
